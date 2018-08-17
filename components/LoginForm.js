@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     padding: 10
   },
   signupText: {
-    color: '#fff',
+    color: '#ddd',
     marginTop: 40,
   },
 });
